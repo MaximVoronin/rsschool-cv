@@ -44,5 +44,5 @@ if ( VerificationAge(age) ) {
 
 ## Language:
 
-English level - A1 (earning a language with an app Lingualeo)
+English level - A1 (Learning a language with an app Lingualeo)
  
