@@ -38,7 +38,7 @@ if ( VerificationAge(age) ) {
 ```
 
 ## Education and course:
-  * Course : JS,Html,CSS https://www.sololearn.com/
+  * Course : JS,HTML,CSS https://www.sololearn.com/
   * Course : JavaScript Course: Learning JS for Beginners https://code-basics.com/ru/languages/javascript
 
 
