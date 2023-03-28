@@ -34,7 +34,7 @@ if ( VerificationAge(age) ) {
   alert( 'Accessed' );
 } else {
   alert( 'Access closed' );
-} 
+}
 ```
 
 ## Education and course:
