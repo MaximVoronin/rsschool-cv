@@ -14,10 +14,10 @@
 
 ## Skills
 
-  * HTML(Basic)
-  * CSS(Basic)
+  * HTML (Basic)
+  * CSS (Basic)
   * JavaScript (Basic)
-  * Git(Basic)
+  * Git (Basic)
 
 ## Code Example
 ``` function VerificationAge(age) {
