@@ -34,15 +34,14 @@ if ( VerificationAge(age) ) {
   alert( 'Accessed' );
 } else {
   alert( 'Access closed' );
-} 
+}
 ```
 
 ## Education and course:
   * Course : JS,Html,CSS https://www.sololearn.com/
   * Course : JavaScript Course: Learning JS for Beginners https://code-basics.com/ru/languages/javascript
-  
+
 
 ## Language:
 
 English level - A1 (Learning a language with an app Lingualeo)
- 
